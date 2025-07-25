@@ -116,4 +116,6 @@ Advanced Data Visualization in Power BI
 Business Analysis & Insight Generation
 
 🔗 Connect
-If you liked this project or want to collaborate, feel free to reach out on LinkedIn.
+If you liked this project or want to collaborate, feel free to reach out on LinkedIn. 
+
+https://www.linkedin.com/in/payal-nagda
